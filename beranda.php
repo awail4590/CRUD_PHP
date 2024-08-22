@@ -23,6 +23,8 @@ if (isset($_POST['btnlogout'])) {
 </head>
 
 <body>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis quae natus iste enim iure nemo vero, harum
+        obcaecati eius maxime quam voluptatum, assumenda provident non ex quis itaque animi dolorum.</p>
     <div class="kotak_link">
         <a href="tambah_data.php" class="tombol_link">
             <div class="kotak_tombol_link">
