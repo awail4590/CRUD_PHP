@@ -1,0 +1,49 @@
+.kotak_link {
+    width: 150px;
+    height: 20px;
+}
+
+.kotak_tombol_link {
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    background-color: green;
+    width: 150px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.tombol_link {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    height: 20px;
+}
+
+.kotak_tombol_button {
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+
+.tabel_data {
+    background-color: orange;
+    color: white;
+}
+
+.tabel {
+    margin: 40px;
+}
+
+.tabel_td{
+    text-align: left;
+}
+
+.pesan_berhasil{
+    color: green;
+}
