@@ -23,7 +23,6 @@ if (isset($_POST['btnlogout'])) {
 </head>
 
 <body>
-    <p>Hello</p>
     <div class="kotak_link">
         <a href="tambah_data.php" class="tombol_link">
             <div class="kotak_tombol_link">
